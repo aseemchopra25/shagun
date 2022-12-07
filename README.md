@@ -1,1 +1,1 @@
-# Birthday Card for a great friend using ReactJS and P5JS
+# Birthday Card for Shaggy using ReactJS and P5JS
